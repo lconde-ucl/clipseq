@@ -8,3 +8,8 @@ testing*
 
 .nf-test/
 test.tap
+
+results_COMPLETED/
+richard_data/
+richard_samplesheet.csv
+
